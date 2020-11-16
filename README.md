@@ -1,7 +1,7 @@
 # curso-js-curso-em-video
 ## Patrocinador Google
 Exercícios com Javascript feito no curso do Guanabara com duração de 40 horas.
-[CURSO EM VIDEO link:]("https://www.cursoemvideo.com/")
+[CURSO EM VIDEO link:](https://www.cursoemvideo.com/)
 
 ### Refiz os códigos de todas as aulas, porque não aprendemos só assistindo, temos que praticar!
 1. Assistir os vídeos
