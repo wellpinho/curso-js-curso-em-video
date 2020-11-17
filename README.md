@@ -1,7 +1,7 @@
 # curso-js-curso-em-video
 ## Patrocinador Google
 Curso Javascript do Guanabara com duração de 40 horas.
-[CURSO EM VIDEO](https://www.cursoemvideo.com/)
+[https://www.cursoemvideo.com/](https://www.cursoemvideo.com/)
 
 ### Refiz os códigos de todas as aulas, porque não aprendemos só assistindo, temos que praticar!
 1. Assistir os vídeos
